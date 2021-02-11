@@ -1,0 +1,2 @@
+allow default_android_service default_android_service:service_manager { add };
+
