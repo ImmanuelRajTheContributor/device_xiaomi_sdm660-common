@@ -1,2 +1,0 @@
-allow untrusted_app_29 blkio_dev:dir search;
-
